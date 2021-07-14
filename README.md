@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=6f48c9&labelColor=0A1033">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 05" />
+ <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=6f48c9&labelColor=0A1033" alt="NLW 05" />
 </p>
 
 
