@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#running">Running the project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#running-the-project">Running the project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
