@@ -38,6 +38,8 @@ Clone the project and access the folder.
 $ git clone https://github.com/jheanr/podcastr.git && cd podcastr
 ```
 
+Follow these steps:
+
 ```shell
 # Install the dependencies
 $ yarn
